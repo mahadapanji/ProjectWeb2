@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    padding-bottom: 50px;
+    min-height: 100vh;
+    width: 100%;
+}
+
+
+.warna-bg{
+    background: linear-gradient(to right, #0650f1, #05a9db);
+
+}
+
+footer{
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+}
+
